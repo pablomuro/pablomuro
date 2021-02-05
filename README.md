@@ -24,8 +24,6 @@ I've been coding since 2011 and never stop, was love at first - `hello-world.c`
   - 🕺 Dance and partying
   - 🏋️‍♂️ Working Out
 
-<br>
-
 ### Find me 🔗
 
 [<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pablomuro/)

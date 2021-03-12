@@ -77,5 +77,4 @@ I've been coding since 2011 and never stop, was love at first - `hello-world.c`
 
 <br>
 
-<img align="left" width="370" src="https://github-readme-stats.vercel.app/api?username=pablomuro&show_icons=true&hide=contribs&count_private=true" alt="pablomuro" />
-<img align="right" width="315" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablomuro&hide=scss&layout=compact" alt="pablomuro" />
+<img align="left" width="370" src="https://github-readme-stats.vercel.app/api?username=pablomuro&show_icons=true&hide=contribs&count_private=true" alt="pablomuro" /> <img align="right" width="315" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablomuro&hide=scss&layout=compact" alt="pablomuro" />

@@ -71,6 +71,12 @@ I've been coding since 2011 and never stop, was love at first - `hello-world.c`
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="35" height="35"/>&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="35" height="35"/>&nbsp;&nbsp;
 
+<br>
+
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=pablomuro&show_icons=true" alt="pablomuro" />&nbsp;&nbsp;
+<br>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=pablomuro&show_icons=true&hide=contribs&count_private=true" alt="pablomuro" />
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pablomuro&hide=scss&layout=compact" alt="pablomuro" />&nbsp;&nbsp;

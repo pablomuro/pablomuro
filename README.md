@@ -4,9 +4,7 @@
 
 ### 👨🏻‍💻 Fullstack Software Developer
 
-### 🌎 Current in : Brasília | 🇧🇷️ Brazil
-
-✈️ Planning to move in next year to Europe
+### 🌎 Current in : Madrid | 🇪🇸 Spain
 
 ---
 

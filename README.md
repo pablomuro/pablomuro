@@ -2,7 +2,7 @@
 
 ### Hey you there, I'm **Pablo A. Muro Martinez**
 
-### 👨🏻‍💻 Fullstack Software Developer
+### 👨🏻‍💻 Javascript Fullstack Software Developer
 
 ### 🌎 Current in : Madrid | 🇪🇸 Spain
 
